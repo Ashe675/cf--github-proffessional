@@ -1,10 +1,10 @@
 # Hi, I'm Jose!
 
-Contenido
-[Title](https://github.com/Ashe675/cf--github-proffessional?tab=readme-ov-file#hi-im-jose)
-[Description](https://github.com/Ashe675/cf--github-proffessional?tab=readme-ov-file#description)
+## Contenido
+- [Title](https://github.com/Ashe675/cf--github-proffessional?tab=readme-ov-file#hi-im-jose)
+- [Description](https://github.com/Ashe675/cf--github-proffessional?tab=readme-ov-file#description)
 
-# Description
+## Description
 - [ ] item
 - [x] item2
 
