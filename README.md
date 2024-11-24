@@ -1,5 +1,7 @@
-Hi, My name is Jose!
+# Hi, I'm Jose!
 
 Welcome to my profile!
+- [] item
+- [] item2
 
-Your Name Is Jose!
+This is my [portfolio](https://portfolio1-4z9.pages.dev/)
